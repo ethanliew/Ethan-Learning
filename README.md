@@ -2,5 +2,5 @@
 
 #Menu
 
-* Learn Markdown
+* [Learn Markdown Syntax](https://github.com/ethanliew/Ethan-Learning/blob/master/Learn%20Github.md)
 * Learn GitHub

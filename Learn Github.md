@@ -5,5 +5,6 @@
 
 * [How to github create a new file](https://help.github.com/articles/creating-new-files/)
 
-* [github GIST](https://gist.github.com/)
+* [Github GIST](https://gist.github.com/)
+* [Use to markdown idea](https://help.github.com/articles/about-gists/)
 
